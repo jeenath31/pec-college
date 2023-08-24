@@ -1,0 +1,52 @@
+.a{
+    background-color:black;
+    color:white;
+}
+.b{
+    height: 80px;
+    width: 300px;
+}
+.c{
+    width: 90vw;
+}
+.e{
+    padding bottom:5px;
+    margin:10px;
+    color:white;
+}
+.f{
+    color: rgb(5, 5, 78);
+    font-size:40px;
+}
+.g{
+    width: 100vw;
+    background-image:radial-gradient(rgb(167, 88, 88),rgb(190, 38, 38));
+}
+.h{
+    color:rgb(173, 173, 51);
+    margin-left:10px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    font-size: 35px;
+}
+.m{
+    font-size: 20px;
+    color: white;
+    margin: 10px;
+}
+.j{
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
+.n{
+    background-color:white;
+
+}
+.v{
+    color: blue;
+}
+.x{
+    color: red;
+    
+}
